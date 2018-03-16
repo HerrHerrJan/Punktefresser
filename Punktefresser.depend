@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1515762098 source:/home/leon/Dropbox/CplusplusKurs/Punktefresser/maindocument.cpp
+	<iostream>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	<time.h>
+	<vector>
+	<array>
+
+1517917593 source:/home/leon/Dropbox/CplusplusKurs/Punktefresser/maindoc.cpp
+	<iostream>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<functional>
+	<cmath>
+	<time.h>
+	<vector>
+	<array>
+
+1521214584 source:/home/jan/Dokumente/C++/Punktefresser/maindoc.cpp
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"include/Spieler.h"
+	<stdio.h>
+	<string>
+	<functional>
+	<cmath>
+	<time.h>
+	<vector>
+	<array>
+
+1521214839 /home/jan/Dokumente/C++/Punktefresser/include/Spieler.h
+	"Projektil.h"
+
+1521037682 source:/home/jan/Dokumente/C++/Punktefresser/src/Projektil.cpp
+	"Projektil.h"
+
+1521215708 /home/jan/Dokumente/C++/Punktefresser/include/Projektil.h
+
